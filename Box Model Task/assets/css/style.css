@@ -1,0 +1,15 @@
+*{   
+    padding: 0;
+    margin: 0;
+}
+div{
+    width: 52%;
+    background-color: orange;
+}
+img{
+   
+    background-color: red;
+    border: 25px solid rgb(79, 25, 242) ;
+    padding: 3%;
+    margin: 5% ;
+}
